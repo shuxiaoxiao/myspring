@@ -1,0 +1,12 @@
+target/
+
+logs/
+work/
+
+.idea/
+*.iml
+
+#eclipse#
+.settings/
+.classpath
+.project
